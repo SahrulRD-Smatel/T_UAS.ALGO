@@ -1,6 +1,7 @@
+## 🚀 About Me
+I'm a full stack developer...
 
-
-## 🛠 Skills
+## 🛠 Using
 C#, MS Access...
 
 ## Feedback
